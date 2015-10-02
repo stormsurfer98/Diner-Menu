@@ -1,0 +1,31 @@
+h1, h3, div {
+	font-family: "Raleway";
+	opacity: 1;
+}
+
+div {
+	background-color: orange;
+	border-radius: 8px;
+	border: 1px black solid;
+	margin: 12px;
+	padding: 2px;
+	opacity: 1;
+}
+
+.location {
+	width: 40%;
+	background-color: #CAAEF5;
+	display: inline-block;
+	opacity: 1;
+}
+
+.section {
+	background-color: #669666;
+	opacity: 1;
+}
+
+.special {
+	background-color: aqua;
+	border: 2px black dashed;
+	opacity: .4;
+}
