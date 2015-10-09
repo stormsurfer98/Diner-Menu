@@ -1,15 +1,21 @@
-h1, h3, div {
+h1, h3, div, li {
 	font-family: "Raleway";
 	opacity: 1;
 }
 
-div {
+div, li {
 	background-color: orange;
 	border-radius: 8px;
 	border: 1px black solid;
 	margin: 12px;
 	padding: 2px;
 	opacity: 1;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
 }
 
 .location {
